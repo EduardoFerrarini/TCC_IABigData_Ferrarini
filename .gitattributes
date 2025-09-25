@@ -1,0 +1,19 @@
+# Handle binary files properly
+*.zip binary
+*.tar.gz binary
+*.rar binary
+*.7z binary
+*.pdf binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.mp4 binary
+*.avi binary
+*.mov binary
