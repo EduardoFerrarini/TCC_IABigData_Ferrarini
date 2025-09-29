@@ -19,4 +19,4 @@ Dataset.zip
 - AspectClassification_fine_tuning.csv    -> 5700 feedbacks para os 15 aspectos e label binária.
 - aspectos.json                           -> definição dos 15 aspectos utilizada para execução do trabalho
 - comparacaoLabel.json                    -> Arquivo de output da execução do analise_feedbacks_comparada.py, alterado para incluir label de classificação e é utilizado pelo Script analiseROC.py
-- feedbacks.json                          -> Arquivo contendo os 15 feedbacks utilizados para testar SBERT, BerTimbau base, BerTimbau FT, ChatGPT 4, ChatGPT 5, Claude e Gemini
+- feedbacks.json                          -> Arquivo contendo os 25 feedbacks utilizados para testar SBERT, BerTimbau base, BerTimbau FT, ChatGPT 4, ChatGPT 5, Claude e Gemini
